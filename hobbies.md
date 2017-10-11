@@ -18,7 +18,7 @@ I like computer games with exquisite design.
 
 #### Photography
 
-<img src="/images/photo.jpg" class="floatpic">
+<img src="http://img.blog.csdn.net/20171011191745935?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdXNlbHlt/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" class="floatpic">
 Photography can make business trip become an interesting travel.
 
 
@@ -26,9 +26,9 @@ Photography can make business trip become an interesting travel.
 #### HI-FI
 
 <div class="third">
-<img src="/images/hifi1.jpg">
-<img src="/images/hifi2.jpg">
-<img src="/images/hifi3.jpg">
+<img src="http://img.blog.csdn.net/20171011191953946?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdXNlbHlt/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast">
+<img src="http://img.blog.csdn.net/20171011192036712?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdXNlbHlt/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast">
+<img src="http://img.blog.csdn.net/20171011192048610?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdXNlbHlt/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast">
 </div>
 
 
