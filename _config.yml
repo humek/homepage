@@ -35,11 +35,11 @@ links:
  # - title: Projects
  #   url: /projects/
   - title: Publications
-    url: /publications/
+    url: /homepage/publications/
   - title: Experience
-    url: /experience/
+    url: /homepage/experience/
   - title: Hobbies
-    url: /hobbies/
+    url: /homepage/hobbies/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Hong_Kong
