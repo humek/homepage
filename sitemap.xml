@@ -4,19 +4,19 @@ layout: nil
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-      <loc>https://humek.github.io/homepage/</loc>
+      <loc>https://humek.github.io/</loc>
     </url>
     <url>
-      <loc>https://humek.github.io/homepage/projects/</loc>
+      <loc>https://humek.github.io/projects/</loc>
     </url>
     <url>
-      <loc>https://humek.github.io/homepage/publications/</loc>
+      <loc>https://humek.github.io/publications/</loc>
     </url>
     <url>
-      <loc>https://humek.github.io/homepage/experience/</loc>
+      <loc>https://humek.github.io/experience/</loc>
     </url>
     <url>
-      <loc>https://humek.github.io/homepage/hobbies/</loc>
+      <loc>https://humek.github.io/hobbies/</loc>
     </url>
     {% comment %}
     {% for post in site.posts %}
