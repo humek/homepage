@@ -29,17 +29,21 @@ bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
+BASE_PATH : /homepage
+# Links to include in top navigation
+# For external links add external: true
 links:
   - title: Index
-    url: /homepage
+    url: /
  # - title: Projects
  #   url: /projects/
   - title: Publications
-    url: /homepage/publications/
+    url: /publications/
   - title: Experience
-    url: /homepage/experience/
+    url: /experience/
   - title: Hobbies
-    url: /homepage/hobbies/
+    url: /hobbies/
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Hong_Kong
