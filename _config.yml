@@ -31,7 +31,7 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Index
-    url: /homepage/s
+    url: /homepage
  # - title: Projects
  #   url: /projects/
   - title: Publications
